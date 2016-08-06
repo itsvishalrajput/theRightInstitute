@@ -68,9 +68,9 @@
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
                         <li><a href="index.jsp">Home</a></li>
-                        <li><a href="about_me.html">About Me</a></li>
+                        <li><a href="about_me.jsp">About Me</a></li>
                         <li><a href="search.jsp">Institutes</a></li>
-                        <li><a href="contact-us.html">Contact</a></li>
+                        <li><a href="contact-me.jsp">Contact</a></li>
                         <li><a href="logout">Logout</a></li>               
                     </ul>
                 </div>
